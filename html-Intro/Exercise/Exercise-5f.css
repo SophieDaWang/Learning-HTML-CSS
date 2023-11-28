@@ -1,0 +1,29 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Roboto;
+  }
+  .price {
+    font-size: 26px;
+    margin-bottom: 6px;
+  }
+  .sub1 {
+    color: grey;
+    font-size: 14px;
+    padding-left: 6px;
+  }
+
+  .change {
+    color: green;
+    font-size: 14px;
+    margin-bottom: 6px;
+  }
+
+  .AfterMarket {
+    color: grey;
+    font-size: 14px;
+  }
+
+  .sub2 {
+    color: red;
+  }

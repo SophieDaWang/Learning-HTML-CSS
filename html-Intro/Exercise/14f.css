@@ -1,0 +1,67 @@
+body {
+  height: 3000px;
+}
+
+div {
+  font-family: Arial;
+}
+.left-sidebar-1 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+
+  background-color: rgb(53, 53, 53);
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  
+}
+
+.icon {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border-radius: 20px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.left-sidebar-2{
+  position: fixed;
+  left: 60px;
+  top: 0;
+  bottom: 0;
+  width: 130px;
+  background-color: rgb(94, 94, 94);
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title {
+  font-family: Arial;
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+}
+.add-sign {
+  font-family: Arial;
+  color: rgb(199, 195, 195);
+  font-size: 18px;
+}
+
+.items {
+  font-family: arial;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  color: rgb(185, 185, 185);
+}

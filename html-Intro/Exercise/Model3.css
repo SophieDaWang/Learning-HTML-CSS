@@ -1,0 +1,16 @@
+p {
+    width: 300px;
+    text-align: center;
+    margin-top:6;
+    margin-bottom:0;
+}
+.title {
+    font-weight: bold;
+    font-family: Montserrat;
+    Font-size: 30px;
+    margin-bottom: 24px;
+
+}
+.Ads {
+    font-size: 20px;
+}

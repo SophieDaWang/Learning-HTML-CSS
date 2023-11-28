@@ -1,0 +1,50 @@
+body {
+  height: 3000px;
+}
+.jacket-container {
+  display: inline-block;
+  position: relative;
+
+  }
+
+  img {
+    width: 200px;
+object-fit: cover;
+  }
+
+  .discount {
+    position: absolute;
+    right: 0;
+    top: 6px;
+    background-color: black;
+    font-family: Arial;
+    font-size: 10px;
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .overlay {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 60px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .add-to-cart-button {
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }

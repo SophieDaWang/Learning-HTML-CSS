@@ -1,0 +1,14 @@
+.flexbox-12a {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+}
+.box1 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.box2 {
+  background-color: lightpink;
+  width: 75px;
+}
